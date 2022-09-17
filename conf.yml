@@ -1,0 +1,11 @@
+name: conf
+dependencies:
+    - python=3.6
+    - jupyter
+    - ipython
+    - numpy
+    - numpy-base
+    - pandas
+    - py4j
+    - pyspark
+    - pytz
